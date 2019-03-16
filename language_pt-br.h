@@ -38,7 +38,7 @@
 #define MSG_MAIN                            "Menu principal"
 #define MSG_AUTOSTART                       "Autostart"
 #define MSG_DISABLE_STEPPERS                "Desabi. motores"
-#define MSG_AUTO_HOME                       "Ir para origen"
+#define MSG_AUTO_HOME                       "Ir para origem"
 #define MSG_LEVEL_BED_HOMING                "Homing XYZ"
 #define MSG_LEVEL_BED_WAITING               "Click to Begin"
 #define MSG_LEVEL_BED_DONE                  "Leveling Done!"
