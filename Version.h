@@ -35,7 +35,7 @@
   /**
    * Marlin release version identifier
    */
-  #define SHORT_BUILD_VERSION "3DFMASTER"
+  #define SHORT_BUILD_VERSION "bugfix-1.1.x"
 
   /**
    * Verbose version identifier which should contain a reference to the location
@@ -48,7 +48,7 @@
    * here we define this default string as the date where the latest release
    * version was tagged.
    */
-  #define STRING_DISTRIBUTION_DATE "2017-10-10 12:00"
+  #define STRING_DISTRIBUTION_DATE "2018-07-31"
 
   /**
    * Required minimum Configuration.h and Configuration_adv.h file versions.
@@ -57,8 +57,8 @@
    * but not limited to: ADD, DELETE RENAME OR REPURPOSE any directive/option on
    * the configuration files.
    */
-  #define REQUIRED_CONFIGURATION_H_VERSION 010100
-  #define REQUIRED_CONFIGURATION_ADV_H_VERSION 010100
+  #define REQUIRED_CONFIGURATION_H_VERSION 010109
+  #define REQUIRED_CONFIGURATION_ADV_H_VERSION 010109
 
   /**
    * The protocol for communication to the host. Protocol indicates communication
@@ -89,6 +89,6 @@
    * The WEBSITE_URL is the location where users can get more information such as
    * documentation about a specific Marlin release.
    */
-  #define WEBSITE_URL "3dfmaster.com.br"
+  #define WEBSITE_URL "http://marlinfw.org"
 
 #endif // USE_AUTOMATIC_VERSIONING
